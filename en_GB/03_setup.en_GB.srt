@@ -1,0 +1,120 @@
+﻿1
+00:00:00,520 --> 00:00:03,800
+My name is Brain of Terror and I
+am an NSO at Dublin Roller Derby.
+
+2
+00:00:03,800 --> 00:00:08,020
+In this video, I'm going to look at how to
+setup a projector with the Scoreboard.
+
+3
+00:00:08,580 --> 00:00:13,600
+Here we have a Scoreboard in the
+usual case where the system running
+
+4
+00:00:13,600 --> 00:00:17,220
+the scoreboard is the same one
+ that is hooked up to the projector.
+
+5
+00:00:17,760 --> 00:00:22,300
+So, on localhost:8000, we hit
+Main Scoreboard.
+
+6
+00:00:22,300 --> 00:00:26,380
+Now you will have the projector
+hooked up to the machine
+
+7
+00:00:26,380 --> 00:00:29,420
+and with an extended desktop so you
+will drag this to the left
+
+8
+00:00:29,420 --> 00:00:32,160
+or to the right so it will end up
+in the right place, and then
+
+9
+00:00:32,160 --> 00:00:35,500
+you want to fullscreen this
+which is usually F11.
+
+10
+00:00:36,160 --> 00:00:38,440
+Great.
+That's all working.
+
+11
+00:00:38,480 --> 00:00:44,300
+Now, what if the machine that you want
+the projector
+
+12
+00:00:44,440 --> 00:00:47,700
+to run from is not the same
+machine with your scoreboard on ?
+
+13
+00:00:47,700 --> 00:00:51,140
+You'll need to setup some form of
+network between them via using WiFi,
+
+14
+00:00:51,140 --> 00:00:54,720
+cables, or something. I am not going to
+go into those sort of details.
+
+15
+00:00:54,720 --> 00:00:59,560
+But once you've got a network set up,
+you'll notice this Info section here
+
+16
+00:00:59,560 --> 00:01:03,140
+which mentions a whole pile of ways
+you might be able to get to the Scoreboard.
+
+17
+00:01:03,140 --> 00:01:08,520
+The one you're looking for is
+probably the 192.168 one,
+
+18
+00:01:08,520 --> 00:01:12,760
+might be 172 that would be unusual,
+but normally 192.168
+
+19
+00:01:13,180 --> 00:01:18,200
+So, I can go to this other machine
+which has the projector on, type in
+
+20
+00:01:18,200 --> 00:01:22,880
+192.168.1.13:8000 which happens
+to be the value in this case,
+
+21
+00:01:22,880 --> 00:01:26,700
+use whatever the right value is,
+and it's the same view,
+
+22
+00:01:26,700 --> 00:01:31,660
+so from this machine that has the
+projector, go to Main Scoreboard,
+
+23
+00:01:31,660 --> 00:01:35,060
+drag it if needed,
+and press F11 to fullscreen.
+
+24
+00:01:35,060 --> 00:01:39,560
+And that is how you setup the
+Scoreboard with a projector.
+
