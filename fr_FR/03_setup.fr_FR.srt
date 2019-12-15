@@ -1,0 +1,117 @@
+﻿1
+00:00:00,520 --> 00:00:03,800
+Je suis Brain of Terror et je suis NSO 
+chez Dublin Roller Derby.
+
+2
+00:00:03,800 --> 00:00:08,020
+Dans cette vidéo, j'aborderai la mise en place
+du Scoreboard avec un vidéoprojecteur
+
+3
+00:00:08,580 --> 00:00:13,600
+On retrouve ici un Scoreboard dans le
+cas classique où le système utilisé
+
+4
+00:00:13,600 --> 00:00:17,220
+pour le Scoreboard est le même
+que celui relié au projecteur.
+
+5
+00:00:17,760 --> 00:00:22,300
+Donc, sur localhost:8000, on va choisir Main Scoreboard.
+
+6
+00:00:22,300 --> 00:00:26,380
+A ce moment là, votre projecteur
+est branché à la machine
+
+7
+00:00:26,380 --> 00:00:29,420
+en affichage étendu, et vous allez
+donc tirer votre fenêtre vers la gauche
+
+8
+00:00:29,420 --> 00:00:32,160
+ou vers la droite afin de la placer
+au bon endroit, puis
+
+9
+00:00:32,160 --> 00:00:35,500
+passer en plein écran, généralement
+grâce à la touche F11.
+
+10
+00:00:36,160 --> 00:00:38,440
+Bien.
+Tout cela fonctionne.
+
+11
+00:00:38,480 --> 00:00:44,300
+Maintenant, que se passe-t-il si la
+machine à laquelle vous voulez
+
+12
+00:00:44,300 --> 00:00:47,700
+connecter le videoprojecteur
+n'est pas celle du scoreboard ?
+
+13
+00:00:47,700 --> 00:00:51,140
+Il vous faudra mettre en place une forme
+de réseau entre ces machines par WiFi,
+
+14
+00:00:51,140 --> 00:00:54,720
+par câble ou autre. Je ne rentrerai pas dans ce type de détails.
+
+15
+00:00:54,720 --> 00:00:59,560
+Une fois votre réseau en place,
+vous pourrez voir cette section Info
+
+16
+00:00:59,560 --> 00:01:03,140
+qui contient une liste des adresses auxquelles
+vous devriez trouver le Scoreboard.
+
+17
+00:01:03,140 --> 00:01:08,520
+Celle qui vous intéresse dans ce cas là
+devrait être celle qui commence par 192.168
+
+18
+00:01:08,520 --> 00:01:12,760
+Cela pourrait dans de rares cas être celle
+en 172, mais normalement c'est 192.168
+
+19
+00:01:13,180 --> 00:01:18,200
+Donc, sur l'autre machine, celle qui est branchée
+au projecteur, je peux maintenant aller
+
+20
+00:01:18,200 --> 00:01:22,880
+à l'adresse 192.168.1.13:8000 puisque
+c'est celle indiquée dans mon cas,
+
+21
+00:01:22,880 --> 00:01:26,700
+vous prenez la valeur qui correspond dans votre cas, et c'est la même vue,
+
+22
+00:01:26,700 --> 00:01:31,660
+donc depuis ma machine connectée
+au projecteur, je choisis Main Scoreboard
+
+23
+00:01:31,660 --> 00:01:35,060
+je glisse la fenêtre sur le bon écran si besoin,
+et j'appuie sur F11 pour le plein écran.
+
+24
+00:01:35,060 --> 00:01:39,560
+Voilà comment on met en place
+le Scoreboard avec un projecteur.
+
