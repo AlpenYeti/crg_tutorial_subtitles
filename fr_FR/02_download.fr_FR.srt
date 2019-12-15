@@ -133,7 +133,7 @@ Pour Windows, c'est simplement
 28
 00:01:22,260 --> 00:01:24,650
 Pour résumer, sous Windows 
-j'utilise scoreboard-Windows
+j'utilise scoreboard-Windows.exe
 
 29
 00:01:24,650 --> 00:01:27,140
