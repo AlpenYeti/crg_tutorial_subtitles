@@ -6,7 +6,7 @@ an NSO at Dublin Roller Derby.
 2
 00:00:04,300 --> 00:00:07,820
 I am also one of the scoreboard
-developpers.
+developers.
 
 3
 00:00:07,820 --> 00:00:13,060
@@ -50,17 +50,17 @@ So the big thing about version 4 of the
 
 11
 00:00:37,840 --> 00:00:39,880
- There’s now a full WFTDA
+ There’s now full WFTDA
 statsbook support
 
 12
 00:00:39,880 --> 00:00:43,560
  which is largely due to Speedy 
-Convalesce who is with Star Track. 
+Convalesce who is with Star Track.
 
 13
 00:00:43,560 --> 00:00:46,880
-Erm, so, we are looking at all of that,
+Erm, so, we will be looking at all of that,
 
 14
 00:00:46,880 --> 00:00:49,100
@@ -79,7 +79,7 @@ Scoreboard Facebook group
 
 17
 00:00:55,800 --> 00:00:58,040
- which I’ll put a link in the
+ which I’ll put a link to in the
  description below.
 
 18

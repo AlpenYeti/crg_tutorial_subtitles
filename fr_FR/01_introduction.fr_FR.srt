@@ -72,12 +72,12 @@ de la ligue Star Track.
 
 16
 00:00:43,560 --> 00:00:46,880
-Cela comprend donc toutes les feuilles
+Nous aborderons donc tout cela,
 
 17
 00:00:46,880 --> 00:00:49,100
-de Penalty Tracking, LineUp Tracking 
-et le reste.
+les feuilles de Penalty Tracking, 
+LineUp Tracking et le reste.
 
 18
 00:00:49,100 --> 00:00:52,360
