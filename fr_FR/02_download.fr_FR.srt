@@ -1,0 +1,174 @@
+﻿1
+00:00:00,520 --> 00:00:04,180
+Je suis Brain of Terror et je suis NSO 
+chez Dublin Roller Derby.
+
+2
+00:00:04,180 --> 00:00:06,420
+Dans cette vidéo, nous allons voir
+ comment télécharger 
+
+3
+00:00:06,460 --> 00:00:08,580
+et lancer le Scoreboard.
+
+4
+00:00:08,580 --> 00:00:10,540
+Vous pouvez aller dans votre moteur
+ de recherche favori,
+
+5
+00:00:10,550 --> 00:00:12,240
+taper "roller derby scoreboard"
+
+6
+00:00:12,240 --> 00:00:14,540
+et il devrait y avoir
+ un lien vers GitHub.
+
+7
+00:00:14,540 --> 00:00:19,840
+Il vous menera à l'adresse suivante.
+ J'ajouterai le lien dans la description.
+
+8
+00:00:19,840 --> 00:00:22,760
+Ce qui nous intéresse ici, 
+c'est ce lien Releases
+
+9
+00:00:22,760 --> 00:00:25,040
+qui nous mène à la liste des
+ versions officielles.
+
+10
+00:00:25,040 --> 00:00:28,020
+Ces vidéos concernent bien la version 4
+ du Scoreboard
+
+11
+00:00:28,020 --> 00:00:30,320
+mais celle-ci n'est pas encore sortie
+ à l'heure où je tourne ces vidéos
+
+12
+00:00:30,320 --> 00:00:32,840
+car nous voulons diffuser ces
+ vidéos le jour de la sortie officielle.
+
+13
+00:00:32,840 --> 00:00:36,760
+Mais le principe reste le même. 
+Donc si je déroule jusqu'ici
+
+14
+00:00:36,760 --> 00:00:40,380
+je trouve une section "Assets".
+Le code source ne nous intéresse pas
+
+15
+00:00:40,420 --> 00:00:45,200
+vous pouvez donc cliquer sur
+crg-scoreboard_VERSION.zip pour télécharger.
+
+16
+00:00:45,400 --> 00:00:47,620
+Voici la version 4 que 
+j'avais déjà téléchargée.
+
+17
+00:00:47,660 --> 00:00:50,380
+Là, vous pourriez cliquer
+ directement dessus pour l'explorer
+
+18
+00:00:50,380 --> 00:00:52,560
+mais ce n'est pas ce que l'on veut
+
+19
+00:00:52,580 --> 00:00:56,940
+car c'est un fichier ZIP, donc on 
+veut plutôt l'extraire.
+
+20
+00:00:56,940 --> 00:01:00,840
+J'utilise un gestionnaire de 
+fenêtres appelé XFCE
+
+21
+00:01:00,840 --> 00:01:02,820
+mais quoi que vous utilisiez, 
+que ce soit Windows
+
+22
+00:01:02,820 --> 00:01:05,180
+Mac ou n'importe 
+quelle forme de Linux
+
+23
+00:01:05,180 --> 00:01:07,600
+vous devriez avoir un moyen
+ d'extraire un fichier ZIP.
+
+24
+00:01:07,600 --> 00:01:11,320
+Dans tous les cas, vous devriez
+ avoir un dossier, que vous pouvez ouvrir.
+
+25
+00:01:11,320 --> 00:01:15,720
+Je suis sous Linux, donc je lance
+ scoreboard.sh
+
+26
+00:01:15,720 --> 00:01:20,100
+Si vous êtes sur Mac, vous lancez aussi 
+à partir de scoreboard.sh
+
+27
+00:01:20,100 --> 00:01:22,260
+Pour Windows, c'est simplement
+ scoreboard-Windows.exe
+
+28
+00:01:22,260 --> 00:01:24,650
+Pour résumer, sous Windows 
+j'utilise scoreboard-Windows
+
+29
+00:01:24,650 --> 00:01:27,140
+tous les autres utilisent
+ scoreboard.sh
+
+30
+00:01:28,560 --> 00:01:30,940
+On clique, et ça devrait se lancer !
+
+31
+00:01:30,940 --> 00:01:34,050
+Ici, on trouve tout un tas de manières
+ d'y accéder, mais dans la plupart des cas
+
+32
+00:01:34,050 --> 00:01:36,680
+vous chercherez localhost:8000
+
+33
+00:01:39,100 --> 00:01:40,860
+Et voici le Scoreboard
+
+34
+00:01:40,860 --> 00:01:44,140
+La plupart des systèmes d'exploitation 
+viennent avec Java installé,
+
+35
+00:01:44,140 --> 00:01:46,880
+car CRG est une application Java
+mais vous aurez peut-être
+
+36
+00:01:46,890 --> 00:01:52,560
+besoin de télécharger JDK 
+ou JRE pour faire tourner tout ça.
+
