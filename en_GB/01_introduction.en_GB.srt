@@ -1,0 +1,116 @@
+﻿1
+00:00:00,100 --> 00:00:04,300
+My name is Brain of Terror and I am
+an NSO at Dublin Roller Derby.
+
+2
+00:00:04,300 --> 00:00:07,820
+I am also one of the scoreboard
+developpers.
+
+3
+00:00:07,820 --> 00:00:13,060
+In this set of videos we are going to be 
+looking at version 4 of the Scoreboard.
+
+4
+00:00:13,060 --> 00:00:17,160
+This is the latest release for 
+the whole pile of new features
+
+5
+00:00:17,160 --> 00:00:20,660
+ so in these videos I am not going 
+to try and cover everything at once.
+
+6
+00:00:20,660 --> 00:00:24,580
+ Roller derby is a relatively
+complex game in terms of stats,
+
+7
+00:00:24,580 --> 00:00:27,300
+there is lots of business rules
+and so on to go into
+
+8
+00:00:27,340 --> 00:00:30,520
+so you might see something at screen
+I don’t discuss or that’s a little off
+
+9
+00:00:30,600 --> 00:00:33,540
+that’s just because it’s going to be 
+in a later video.
+
+10
+00:00:33,540 --> 00:00:37,840
+So the big thing about version 4 of the
+ scoreboard is all the stats support.
+
+11
+00:00:37,840 --> 00:00:39,880
+ There’s now a full WFTDA
+statsbook support
+
+12
+00:00:39,880 --> 00:00:43,560
+ which is largely due to Speedy 
+Convalesce who is with Star Track. 
+
+13
+00:00:43,560 --> 00:00:46,880
+Erm, so, we are looking at all of that,
+
+14
+00:00:46,880 --> 00:00:49,100
+ like Penalty Tracking, 
+Line-up Tracking and so on.
+
+15
+00:00:49,100 --> 00:00:52,360
+ If you have any questions
+about the scoreboard
+
+16
+00:00:52,360 --> 00:00:55,800
+ the best place to ask is on the Derby 
+Scoreboard Facebook group
+
+17
+00:00:55,800 --> 00:00:58,040
+ which I’ll put a link in the
+ description below.
+
+18
+00:00:58,040 --> 00:01:00,060
+In terms of history
+
+19
+00:01:00,060 --> 00:01:02,780
+CRG stands for Carolina Roller Girls
+
+20
+00:01:02,780 --> 00:01:06,400
+ who started the scoreboard some 
+10-ish years ago.
+
+21
+00:01:06,400 --> 00:01:08,940
+They are no longer involved but 
+we still have the name,
+
+22
+00:01:08,940 --> 00:01:11,840
+ and we are on like third or fourth set 
+of developers,
+
+23
+00:01:11,840 --> 00:01:15,260
+which is pretty good going as open
+source projects go.
+
+24
+00:01:15,260 --> 00:01:18,320
+ So I hope you find these videos useful.
+

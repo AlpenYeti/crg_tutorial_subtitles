@@ -1,0 +1,128 @@
+﻿1
+00:00:00,100 --> 00:00:04,300
+Je suis Brain of Terror et je suis 
+NSO Chez Dublin Roller Derby.
+
+2
+00:00:04,300 --> 00:00:07,820
+Je participe aussi au 
+développement du Scoreboard.
+
+3
+00:00:07,820 --> 00:00:13,060
+Dans ces vidéos nous allons nous
+pencher sur la version 4 du Scoreboard.
+
+4
+00:00:13,060 --> 00:00:17,160
+Cette dernière version contient 
+beaucoup de nouvelles fonctionnalités
+
+5
+00:00:17,160 --> 00:00:20,660
+donc je ne couvrirai pas tout 
+en une seule video.
+
+6
+00:00:20,660 --> 00:00:24,580
+Le roller derby est un sport assez
+ complexe en termes de Stats,
+
+7
+00:00:24,580 --> 00:00:27,300
+il y a beaucoup de règles particulières 
+et de matière à approfondir
+
+8
+00:00:27,300 --> 00:00:28,600
+donc il y aura peut-être des choses
+
+9
+00:00:28,640 --> 00:00:30,600
+ dont je ne parle pas ou qui 
+semblent erronées
+
+10
+00:00:30,600 --> 00:00:33,540
+nous les aborderons simplement dans
+ une future video.
+
+11
+00:00:33,540 --> 00:00:36,180
+Alors, l'avancée principale de la 
+version 4 du Scoreboard
+
+12
+00:00:36,220 --> 00:00:37,840
+c'est le support des stats
+
+13
+00:00:37,840 --> 00:00:39,880
+désormais en accord
+ avec le Statsbook WFTDA
+
+14
+00:00:39,880 --> 00:00:42,140
+en grande partie grâce au travail 
+de Speedy Convalesce
+
+15
+00:00:42,140 --> 00:00:43,560
+de la ligue Star Track.
+
+16
+00:00:43,560 --> 00:00:46,880
+Cela comprend donc toutes les feuilles
+
+17
+00:00:46,880 --> 00:00:49,100
+de Penalty Tracking, LineUp Tracking 
+et le reste.
+
+18
+00:00:49,100 --> 00:00:52,360
+Si vous avez la moindre question à 
+propos du Scoreboard
+
+19
+00:00:52,360 --> 00:00:55,800
+le meilleur endroit pour les poser reste
+ le groupe Facebook Derby Scoreboard
+
+20
+00:00:55,800 --> 00:00:58,040
+dont vous trouverez le lien 
+dans la description de cette vidéo.
+
+21
+00:00:58,040 --> 00:01:00,060
+Pour l'historique
+
+22
+00:01:00,060 --> 00:01:02,780
+CRG veut dire Carolina Roller Girls
+
+23
+00:01:02,780 --> 00:01:06,400
+pour la ligue qui a commencé le 
+développement il y a près de 10 ans.
+
+24
+00:01:06,400 --> 00:01:08,940
+Iels ne participent plus mais le nom est resté
+
+25
+00:01:08,940 --> 00:01:11,840
+et nous en sommes désormais au troisième 
+ou quatrième groupe de développeurs
+
+26
+00:01:11,840 --> 00:01:15,260
+ce qui est plutôt bien pour un projet
+open source.
+
+27
+00:01:15,260 --> 00:01:19,000
+J'espère que vous trouverez 
+ces vidéos utiles.
+
