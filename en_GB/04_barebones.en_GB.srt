@@ -1,0 +1,364 @@
+﻿1
+00:00:00,000 --> 00:00:03,800
+My name is Brain of Terror and I am
+an NSO at Dublin Roller Derby.
+
+2
+00:00:03,800 --> 00:00:07,780
+In this video, I'm going to
+show you the absolute bare minimum
+
+3
+00:00:07,780 --> 00:00:11,780
+you need to know to run the Scoreboard
+in less than 5 minutes.
+
+4
+00:00:11,780 --> 00:00:16,220
+So, let's see what the bare minimum is.
+Here's the rules
+
+5
+00:00:16,220 --> 00:00:19,960
+They say we need the period clock,
+the Jam clock and the official score.
+
+6
+00:00:19,960 --> 00:00:24,880
+Everything else is nice to have. Great !
+So let's open up the Operator panel
+
+7
+00:00:24,880 --> 00:00:28,300
+This dialog will come up,
+press X
+
+8
+00:00:28,300 --> 00:00:31,800
+At some point, the Jam Timer will do
+their rolling whistle,
+
+9
+00:00:32,440 --> 00:00:33,800
+five seconds,
+
+10
+00:00:33,800 --> 00:00:35,800
+and start the jam.
+
+11
+00:00:35,800 --> 00:00:40,180
+Lead is declared. Lead is not one of the
+three things we care about, so nothing to do.
+
+12
+00:00:40,260 --> 00:00:42,720
+Some points are put up.
+
+13
+00:00:42,720 --> 00:00:46,680
+This will fade...
+
+14
+00:00:46,680 --> 00:00:49,700
+More points are put up.
+
+15
+00:00:49,700 --> 00:00:54,600
+Now, skaters can only go around the track 
+so fast, so that's fine
+
+16
+00:00:54,600 --> 00:00:58,280
+And then maybe the jam is called,
+so the fourth whistle
+
+17
+00:00:58,280 --> 00:00:59,400
+is when we want to
+press the button.
+
+18
+00:00:59,400 --> 00:01:02,220
+twit twit twit TWIT,  twit twit twit twit,
+twit twit twit twit
+
+19
+00:01:02,300 --> 00:01:05,200
+So fourth whistle, not the first
+ whistle, not the twelfth whistle.
+
+20
+00:01:05,200 --> 00:01:07,200
+So, here we go.
+
+21
+00:01:07,920 --> 00:01:13,120
+The official Jam clock and so on is here.
+
+22
+00:01:13,120 --> 00:01:16,400
+This is the lineup clock, the Jam
+Timer should be looking at this,
+
+23
+00:01:16,460 --> 00:01:20,380
+and on 25 seconds, they should be going "5 seconds",
+
+24
+00:01:20,380 --> 00:01:24,760
+...
+
+25
+00:01:24,760 --> 00:01:26,880
+5 seconds
+
+26
+00:01:26,880 --> 00:01:30,140
+...
+
+27
+00:01:30,140 --> 00:01:34,720
+Twit !
+So, you press "Start Jam" when they "twit"
+
+28
+00:01:34,720 --> 00:01:39,020
+which should be at 30 seconds.
+But you press it when they actually "twit".
+
+29
+00:01:39,020 --> 00:01:44,360
+So here we are in the next jam,
+maybe there's some points here
+
+30
+00:01:44,360 --> 00:01:48,740
+then we stop the jam, and hop,
+there was a point there at the end.
+
+31
+00:01:48,740 --> 00:01:52,000
+Grand.
+What if I need to adjust the points ?
+
+32
+00:01:52,000 --> 00:01:56,700
+Usually, you can use these buttons,
+
+33
+00:01:56,700 --> 00:01:59,480
+but you can only go down so far.
+
+34
+00:01:59,480 --> 00:02:05,300
+So, if you need to go a bit further back in time
+to adjust the score, you can do it down here.
+
+35
+00:02:05,300 --> 00:02:10,880
+You can click anywhere you see a number
+that is bigger than zero and change it.
+
+36
+00:02:10,880 --> 00:02:14,500
+Just one thing to watch,
+you'll notice it says 4+0,
+
+37
+00:02:14,500 --> 00:02:17,860
+that first 4 is actually over here
+ in the No Initial column.
+
+38
+00:02:17,860 --> 00:02:21,880
+So if I wanted to change that,
+I need to click here,
+
+39
+00:02:21,880 --> 00:02:25,440
+rather than here which is just a 2.
+
+40
+00:02:25,440 --> 00:02:28,620
+This is a paperwork thing, 
+don't worry about it too much.
+
+41
+00:02:28,620 --> 00:02:31,540
+So, let's say we are going
+into the next Jam,
+
+42
+00:02:32,880 --> 00:02:38,100
+here we go, scores are over here, nice and correct, and we stop the jam.
+
+43
+00:02:38,100 --> 00:02:41,820
+Now let's say there is going to be a Timeout.
+We'll press the Timeout button.
+
+44
+00:02:41,820 --> 00:02:46,340
+We don't care what sort of Timeout it is,
+that's not one of the three things we care about.
+
+45
+00:02:46,340 --> 00:02:51,060
+We do however care about the Period Clock.
+It's possible we are a bit off,
+
+46
+00:02:51,060 --> 00:02:55,840
+In which case the Jam Timer may ask us
+to put a bit of time back on the clock
+
+47
+00:02:55,840 --> 00:02:57,840
+which we can do with these buttons here.
+
+48
+00:02:59,040 --> 00:03:01,440
+Fine !
+Now.
+
+49
+00:03:02,140 --> 00:03:08,620
+At some point, the Timeout will end, we'll
+have a rolling whistle, and we end the Timeout.
+
+50
+00:03:09,160 --> 00:03:12,420
+There will be a 5 seconds call,
+and the Jam will start.
+
+51
+00:03:12,680 --> 00:03:13,740
+Grand.
+
+52
+00:03:13,740 --> 00:03:18,400
+Now, this is only a 5-minute video so
+we are not going to do an entire period
+
+53
+00:03:19,200 --> 00:03:24,740
+You might stop the Jam, and I'm just
+going to advance time
+
+54
+00:03:26,740 --> 00:03:28,740
+Start Jam...
+
+55
+00:03:30,740 --> 00:03:33,980
+... you'll add a few more points...
+
+56
+00:03:37,040 --> 00:03:41,940
+We are coming to the end of period 1.
+There was less than 30 seconds left
+
+57
+00:03:41,940 --> 00:03:44,420
+on the period clock, so everything goes red to tell you
+
+58
+00:03:44,420 --> 00:03:49,720
+that there shouldn't normally be another
+jam in the period unless someone
+
+59
+00:03:49,720 --> 00:03:52,140
+calls a Timeout or there's a
+discretionary Jam or something.
+
+60
+00:03:52,140 --> 00:03:57,240
+That's fine. So, otherwise that
+would just be a zero, cool,
+
+61
+00:03:57,240 --> 00:03:59,860
+to advance and we are now
+in intermission.
+
+62
+00:04:00,560 --> 00:04:04,440
+An important thing to note : if you
+start a Jam now, it will go in Period 1
+
+63
+00:04:04,440 --> 00:04:07,240
+because there might be a discretionary Jam, or a Timeout or something.
+
+64
+00:04:07,240 --> 00:04:12,180
+If you want to go into period 2, there needs to be 
+less than a minute on the intermission clock.
+
+65
+00:04:13,740 --> 00:04:18,840
+So, I'm just gonna set this down to a second,
+intermission is fired, going into period 2,
+
+66
+00:04:18,840 --> 00:04:20,340
+I start the Jam.
+
+67
+00:04:20,340 --> 00:04:22,340
+There's some points.
+
+68
+00:04:22,340 --> 00:04:26,240
+I stop the Jam, and so on and so forth, exact same as before.
+
+69
+00:04:26,240 --> 00:04:29,540
+I'm once again going
+to advance the Period Clock.
+
+70
+00:04:29,540 --> 00:04:33,480
+And now we're at the end of the game,
+we'll presume there's no more Jams.
+
+71
+00:04:33,480 --> 00:04:37,080
+You'll notice this "End of Period
+Controls" is flashing.
+
+72
+00:04:37,080 --> 00:04:44,060
+So you click on that, and what you do is,
+you wait for the Score Keepers and
+
+73
+00:04:44,100 --> 00:04:48,040
+and the Jam Refs to confirm
+that the scores are final,
+
+74
+00:04:48,040 --> 00:04:51,060
+and if there's an Overtime Jam,
+Start Jam is right over there
+
+75
+00:04:51,060 --> 00:04:55,660
+Once it's all confirmed and all, you
+click "Unofficial Score"
+
+76
+00:04:55,700 --> 00:04:57,700
+and this will now say Final Score.
+
+77
+00:04:57,820 --> 00:05:03,700
+So, that is the bare minimum you need
+to know in How to Operate the Scoreboard
+
+78
+00:05:03,700 --> 00:05:05,700
+in less than 5 minutes.
+
